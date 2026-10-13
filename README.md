@@ -29,7 +29,6 @@ docs/  Diagrama de la FSM y capturas de evidencia
 
 FSM tipo Moore de 7 estados.
 
-![Diagrama de la FSM](docs/diagrama_fsm.png)
 
 | Estado | LEDR0 | Otras salidas | Descripción |
 |---|---|---|---|
